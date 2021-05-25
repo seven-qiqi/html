@@ -143,7 +143,7 @@ selector:pseudo-class/pseudo-element {
 
 
 
-#### **组合选择器**
+### **组合选择器**
 
 **后代选择器**：以空格作为分隔，如：`.haha p` 代表在`div`元素内有`.haha`这种类的所有元素。
 
