@@ -28,7 +28,7 @@
 
 ![image-20210620192724711](image-20210620192724711.png)
 
-![img](RAI8[VX6`8KX8KAZ]9D$F%S.png)
+![image-20210620192724711](RAI8[VX6`8KX8KAZ]9D$F%S.png)
 
 ## 未能解决
 
